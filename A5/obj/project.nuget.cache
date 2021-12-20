@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "rwIWqWnN1tVbugUOeeH4NeEeyGRsvd3h3Jz4mt2UnN5tFufPGTXs8b9KXmWoyB4oxnAzzWmTuMemm55/4O1rxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rauna\\Desktop\\Assignment5\\A5\\A5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rauna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\rauna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\rauna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\rauna\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
